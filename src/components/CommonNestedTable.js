@@ -1,5 +1,5 @@
 import { useRef } from 'react'
-import ReactHTMLTableToExcel from 'react-html-table-to-excel';
+import { downloadExcel } from "react-export-table-to-excel";
 const CommonNestedTable = ({ title, headings, nestedTableData }) => {
 
     return (
