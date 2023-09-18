@@ -14,7 +14,7 @@ const Caurosel = () => {
                     <div className=" hidden duration-700 ease-in-out" data-carousel-item>
                         <img src="https://imgk.timesnownews.com/story/rrrrn.png?tr=w-600,h-450,fo-auto" className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
                     </div>
-                    {/* <!-- Item 3 --> */}
+                    {/* <!-- Item 3--> */}
                     <div className="hidden duration-700 ease-in-out" data-carousel-item>
                         <img src="https://imgk.timesnownews.com/story/rrrrn.png?tr=w-600,h-450,fo-auto" className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
                     </div>
